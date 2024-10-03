@@ -1,0 +1,26 @@
+1.	Sum of nodes on the longest path from root to leaf node     --->	https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1
+
+
+2.	LCA in Binary Tree	--->	https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1
+	 LCA Of Binary Tree	--->	https://www.naukri.com/code360/problems/lca-of-binary-tree_920541?leftPanelTabValue=PROBLEM
+	236. Lowest Common Ancestor of a Binary Tree	--->	https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+
+
+3.	K Sum Paths	--->	https://www.geeksforgeeks.org/problems/k-sum-paths/1
+	 Path Sum III	--->	https://www.naukri.com/code360/problems/number-of-ways-for-the-sum-k_1164407?leftPanelTabValue=PROBLEM
+    437. Path Sum III	--->	https://leetcode.com/problems/path-sum-iii/description/
+
+
+4.	Kth Ancestor in a Tree	--->	https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1
+	 Kth ancestor of a node in binary tree	--->	https://www.naukri.com/code360/problems/kth-ancestor-of-a-node-in-binary-tree_842561?leftPanelTabValue=PROBLEM
+
+
+5.	Maximum sum of Non-adjacent nodes	--->	https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1
+	 Maximum Sum Of Nodes	--->		https://www.naukri.com/code360/problems/maximum-sum-of-nodes-in-a-binary-tree-such-that-no-two-nodes-are-adjacent_1118112?leftPanelTabValue=PROBLEM
+
+
+
+
+Another Good Problem	=	
+124. Binary Tree Maximum Path Sum	--->	https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+Maximum Sum Path Of A Binary Tree	--->	https://www.naukri.com/code360/problems/maximum-sum-path-of-a-binary-tree_1214968?leftPanelTabValue=PROBLEM

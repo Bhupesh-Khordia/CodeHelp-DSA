@@ -1,0 +1,4 @@
+ Implement Deque    --->  https://www.naukri.com/code360/problems/deque_1170059?leftPanelTab=0%3Fsource%3Dyoutube&campaign=LoveBabbar_Codestudio
+
+
+641. Design Circular Deque   --> https://leetcode.com/problems/design-circular-deque/description/

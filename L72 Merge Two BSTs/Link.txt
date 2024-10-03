@@ -1,0 +1,3 @@
+ Merge Two BSTs	(Both Approaches)	--->	https://www.naukri.com/code360/problems/h_920474?leftPanelTab=0&leftPanelTabValue=PROBLEM
+
+1932. Merge BSTs to Create Single BST (Multiple BSTs)	--->	https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/

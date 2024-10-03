@@ -1,0 +1,16 @@
+1.	 Partial BST	--->	https://www.naukri.com/code360/problems/validate-bst_799483?leftPanelTab=0&leftPanelTabValue=PROBLEM
+
+	98. Validate Binary Search Tree	--->	https://leetcode.com/problems/validate-binary-search-tree/description/
+
+
+2.	 Find K-th smallest Element in BST	--->	https://www.naukri.com/code360/problems/find-k-th-smallest-element-in-bst_1069333?leftPanelTab=0&leftPanelTabValue=PROBLEM
+
+	230. Kth Smallest Element in a BST	--->	https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+
+
+3.	 Predecessor And Successor In BST	--->	https://www.naukri.com/code360/problems/_893049?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0&leftPanelTabValue=PROBLEM
+
+
+4.	 LCA of Two Nodes In A BST	--->	https://www.naukri.com/code360/problems/lca-in-a-bst_981280?leftPanelTab=0&leftPanelTabValue=PROBLEM
+
+	235. Lowest Common Ancestor of a Binary Search Tree	--->	https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/

@@ -1,0 +1,5 @@
+Search In BST	--->	https://www.naukri.com/code360/problems/search-in-bst_1402878
+
+700. Search in a Binary Search Tree	--->	https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+Search a node in BST	--->	https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1

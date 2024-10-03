@@ -1,0 +1,4 @@
+1. Celebrity Problem ---->  https://www.geeksforgeeks.org/problems/the-celebrity-problem/1
+
+2. Max Rectangle in Binary Matrix  ---->   https://www.geeksforgeeks.org/problems/max-rectangle/1
+				---->   https://leetcode.com/problems/maximal-rectangle/description/

@@ -1,0 +1,17 @@
+1. Morris Traversal 
+	Inorder Tree Traversal without recursion and without stack!	--->	https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/
+	
+	Iterative Inorder	--->	https://www.geeksforgeeks.org/problems/inorder-traversal-iterative/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+	94. Binary Tree Inorder Traversal	--->	https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+
+	 Inorder Traversal	--->	https://www.naukri.com/code360/problems/inorder-traversal_3839605
+
+
+2. 
+	Flatten binary tree to linked list	--->	https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1
+
+	114. Flatten Binary Tree to Linked List	--->	https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
+	
+	 Flatten Binary Tree to Linked List	--->	https://www.naukri.com/code360/problems/flatten-binary-tree-to-linked-list_1112615
+

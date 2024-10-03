@@ -1,0 +1,21 @@
+1. Delete Middle element   --->   https://www.naukri.com/code360/problems/delete-middle-element-from-stack_985246?leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbarcodestudio&count=25&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM
+
+2. Valid Paranthesis   ---->   https://www.naukri.com/code360/problems/valid-parenthesis_795104?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbarcodestudio&count=25&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=SUBMISSION&page=1
+
+			----->    https://leetcode.com/problems/valid-parentheses/submissions/1352237429/
+
+3. Insert an Element at bottom of the Stack ----->  https://www.naukri.com/code360/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbarcodestudio&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=SUBMISSION
+
+4. Reverse a Stack Using Recursion   ---> https://www.naukri.com/code360/problems/reverse-stack-using-recursion_631875?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbarcodestudio
+
+5. Sort a Stack  ---->  https://www.naukri.com/code360/problems/sort-a-stack_985275?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbarcodestudio&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=SUBMISSION
+
+6. Redundant Brackets   ---->   https://www.naukri.com/code360/problems/redundant-brackets_975473?leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbarcodestudio&count=25&search=&sort_entity=order&sort_order=ASC&page=1
+
+
+7. Minimum Cost to Make String Valid    ----> https://www.naukri.com/code360/problems/minimum-cost-to-make-string-valid_1115770?leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbarcodestudio&count=25&page=1&search=&sort_entity=order&sort_order=ASC
+
+
+	Minimum Add to Make Parentheses Valid  ---->    https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/
+
+	Minimum Swaps to make String Balanced   ---->    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/submissions/1353024282/

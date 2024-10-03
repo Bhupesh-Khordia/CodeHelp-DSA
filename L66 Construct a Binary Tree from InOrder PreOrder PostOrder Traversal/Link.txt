@@ -1,0 +1,14 @@
+1.	Construct Tree from Inorder & Preorder	--->	https://www.geeksforgeeks.org/problems/construct-tree-1/1
+
+	105. Construct Binary Tree from Preorder and Inorder Traversal	--->	https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+
+	 Construct Binary Tree From Inorder and Preorder Traversal	--->	https://www.naukri.com/code360/problems/construct-a-binary-tree-from-preorder-and-inorder-traversal_920539?leftPanelTabValue=PROBLEM
+
+
+
+
+2.	Binary Tree from Inorder and Postorder	--->	https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+	106. Construct Binary Tree from Inorder and Postorder Traversal	--->	https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/
+
+	 Construct Binary Tree from Inorder and Postorder Traversal	--->	https://www.naukri.com/code360/problems/construct-binary-tree-from-inorder-and-postorder-traversal_1266106

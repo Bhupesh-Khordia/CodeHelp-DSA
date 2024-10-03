@@ -1,0 +1,4 @@
+1.  Merge Sort in LL ----->   https://leetcode.com/problems/sort-list/description/
+				https://www.naukri.com/code360/problems/mergesort-linked-list_630514?leftPanelTab=0%3Fsource%3Dyoutube&campaign=YouTube_CodestudioLovebabbar5thfeb&count=25&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=SUBMISSION
+
+2. Flatten a LL ---> https://www.naukri.com/code360/problems/flatten-a-linked-list_1112655?source=youtube&campaign=YouTube_CodestudioLovebabbar5thfeb&count=25&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=SUBMISSION&page=1

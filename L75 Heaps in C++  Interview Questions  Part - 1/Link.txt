@@ -1,0 +1,36 @@
+1.	
+	Kth smallest element in an unsorted array	--->	https://www.naukri.com/code360/problems/kth-smallest-element-in-an-unsorted-array_1170531?leftPanelTabValue=PROBLEM
+
+	Kth Smallest		--->	https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+	215. Kth Largest Element in an Array	--->	https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+
+
+
+2.
+	Is Binary Tree Heap	--->	https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1
+
+	Is Binary Heap Tree	--->	https://www.naukri.com/code360/problems/is-binary-heap-tree_893136?leftPanelTabValue=PROBLEM
+
+	958. Check Completeness of a Binary Tree	--->	https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/
+
+
+
+3.	
+	Merge two binary Max heaps	--->	https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1
+
+	Merge Two Binary Max Heaps	--->	https://www.naukri.com/code360/problems/merge-two-binary-max-heaps_1170049?leftPanelTabValue=PROBLEM
+
+
+4.
+	 Connect N Ropes With Minimum Cost	--->	https://www.naukri.com/code360/problems/connect-n-ropes-with-minimum-cost_630476?leftPanelTabValue=PROBLEM
+
+	Minimum Cost of ropes	--->	https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
+
+
+
+5.	
+	Convert BST to Min Heap		--->	https://www.geeksforgeeks.org/convert-bst-min-heap/
+
+	Convert BST to Min Heap		--->	https://www.naukri.com/code360/problems/convert-bst-to-min-heap_920498
+	

@@ -1,0 +1,5 @@
+Burning Tree	--->	https://www.geeksforgeeks.org/problems/burning-tree/1
+
+2385. Amount of Time for Binary Tree to Be Infected	--->	https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/
+
+Time To Burn Tree	--->	https://www.naukri.com/code360/problems/time-to-burn-tree_630563

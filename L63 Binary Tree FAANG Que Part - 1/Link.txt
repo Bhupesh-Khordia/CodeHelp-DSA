@@ -1,0 +1,17 @@
+1.  Height of a Binary Tree --->   https://www.geeksforgeeks.org/problems/height-of-binary-tree/1
+	104.  Maximum Depth of a Binary Tree  --->  https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+
+2.  Diameter of a Binary Tree  ---> https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1
+	543. Diameter of a Binary Tree --> https://leetcode.com/problems/diameter-of-binary-tree/
+
+
+3.  Balanced Tree Check   --->  https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1
+	110. Balanced Binary Tree   --->  https://leetcode.com/problems/balanced-binary-tree/description/
+
+
+4.  Identical Trees    --->   https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1
+	100. Same Tree    --->   https://leetcode.com/problems/same-tree/description/
+
+
+5.  Sum Tree   --->   https://www.geeksforgeeks.org/problems/sum-tree/1

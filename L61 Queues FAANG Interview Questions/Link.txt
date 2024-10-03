@@ -1,0 +1,29 @@
+1.  Queue Reversal   ----- >   https://www.geeksforgeeks.org/problems/queue-reversal/1
+
+2.  First negative in every window of size k   ---->  https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
+
+    First Negative in every Window   ---->  https://www.naukri.com/code360/problems/first-negative-in-every-window_759333?leftPanelTabValue=SUBMISSION
+
+3.  Reverse First K elements of Queue   ---->    https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
+
+     Reverse First K elements of Queue    --->  https://www.naukri.com/code360/problems/reverse-first-k-elements-of-queue_982771?leftPanelTabValue=PROBLEM
+
+4.  First non-repeating character in a stream    ---- >  https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1
+
+5.  Circular tour   ---->   https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1
+
+6.  Interleave The First Half Of The Queue With The Second Half     --->  https://www.naukri.com/code360/problems/interleave-the-first-half-of-the-queue-with-the-second-half_1169450?leftPanelTabValue=PROBLEM
+
+    Interleave the first half of the queue with second half    --->  https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/
+
+7.  N queues in an array   --->   https://www.naukri.com/code360/problems/n-queue-using-array_1170053?leftPanelTabValue=SUBMISSION
+
+    How to efficiently implement k Queues in a single array?  --->   https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/
+
+8.  Sum of minimum and maximum elements of all subarrays of size k.   ---> https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/
+
+     Sum of minimum and maximum elements of all subarrays of size “K”   ----->    https://www.naukri.com/code360/problems/sum-of-minimum-and-maximum-elements-of-all-subarrays-of-size-k_1171047
+
+9.  Implement Stack Using Queue   --->   https://leetcode.com/problems/implement-stack-using-queues/description/
+
+10. Implement Queue using Stack  --->   https://leetcode.com/problems/implement-queue-using-stacks/

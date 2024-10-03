@@ -1,0 +1,5 @@
+450. Delete Node in a BST   --->    https://leetcode.com/problems/delete-node-in-a-bst/description/
+
+Delete a node from BST  --->    https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1
+
+Delete Node In BST  --->    https://www.naukri.com/code360/problems/delete-node-in-bst_920381

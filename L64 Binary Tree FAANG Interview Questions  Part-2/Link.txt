@@ -1,0 +1,49 @@
+1.  Zig Zag Traversal	--->	https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+    
+    103. Binary Tree Zigzag Level Order Traversal	--->	https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
+
+
+
+2.  Boundary Traversal	--->	https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
+
+     Boundary Traversal of Binary Tree	--->	https://www.naukri.com/code360/problems/boundary-traversal_790725?leftPanelTabValue=PROBLEM
+
+
+
+3.  Vertical Tree Traversal	--->	https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1
+
+     Vertical Order Traversal	--->	https://www.naukri.com/code360/problems/vertical-order-traversal_920533?leftPanelTabValue=PROBLEM
+
+     987. Vertical Order Traversal of a Binary Tree	--->	https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/
+
+
+
+4.  Top View of a Binary Tree	--->	https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+
+     Top View Of Binary Tree	--->	https://www.naukri.com/code360/problems/top-view-of-binary-tree_799401
+
+
+
+5.  Bottom View of Binary Tree	--->	https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+     
+     Bottom View of Binary Tree	--->	https://www.naukri.com/code360/problems/bottom-view-of-binary-tree_893110
+
+
+
+6.  Left View of Binary Tree	--->	https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+
+     Left View of Binary Tree	--->	https://www.naukri.com/code360/problems/left-view-of-binary-tree_625707
+
+
+
+7.  Right View of Binary Tree	--->	https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+     Right View	--->	https://www.naukri.com/code360/problems/right-view_764605?leftPanelTabValue=PROBLEM
+
+     199. Binary Tree Right Side View	--->	https://leetcode.com/problems/binary-tree-right-side-view/description/
+
+
+
+8.  Diagonal Tree Traversal	--->	https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1
+
+     Diagonal Traversal of a binary tree     --->	https://www.naukri.com/code360/problems/diagonal-traversal-of-a-binary-tree_920477?leftPanelTabValue=PROBLEM
