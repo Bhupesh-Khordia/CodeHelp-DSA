@@ -1,0 +1,2 @@
+1. Reverse Linked List in K groups - https://www.naukri.com/code360/problems/reverse-list-in-k-groups_983644?leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbar_codestudio_26thjan&count=25&page=1&search=&sort_entity=order&sort_order=ASC
+2. Linked list Circular or not - https://www.naukri.com/code360/problems/circularly-linked_1070232?source=youtube&campaign=Lovebabbar_codestudio_26thjan&count=25&page=1&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=DISCUSS
