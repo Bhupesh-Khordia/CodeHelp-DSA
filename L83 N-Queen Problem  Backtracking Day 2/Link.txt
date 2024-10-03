@@ -1,0 +1,3 @@
+The N - Queens Puzzle	--->	https://www.naukri.com/code360/problems/the-n-queens-puzzle_981286?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0
+
+51. N-Queens	--->	https://leetcode.com/problems/n-queens/description/

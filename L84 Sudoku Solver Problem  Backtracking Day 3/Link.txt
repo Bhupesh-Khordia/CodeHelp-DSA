@@ -1,0 +1,3 @@
+Sudoku Solver	-->	https://www.naukri.com/code360/problems/sudoku-solver_699919?leftPanelTab=0
+
+37. Sudoku Solver	--->	https://leetcode.com/problems/sudoku-solver/description/

@@ -1,0 +1,16 @@
+1.
+	632. Smallest Range Covering Elements from K Lists	--->	https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/
+
+	Smallest Range From K Sorted List	--->	https://www.naukri.com/code360/problems/smallest-range-from-k-sorted-list_1069356?leftPanelTab=0
+
+
+2.
+	295. Find Median from Data Stream	--->	https://leetcode.com/problems/find-median-from-data-stream/description/
+
+	Median in a stream	--->	https://www.naukri.com/code360/problems/median-in-a-stream_975268?leftPanelTab=0
+
+
+3.	
+	767. Reorganize String	--->	https://leetcode.com/problems/reorganize-string/description/
+
+	Rearrange string	--->	https://www.naukri.com/code360/problems/rearrange-string_982765?leftPanelTab=0

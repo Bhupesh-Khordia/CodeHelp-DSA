@@ -1,0 +1,3 @@
+14. Longest Common Prefix	--->	https://leetcode.com/problems/longest-common-prefix/description/
+
+Longest Common Prefix	--->	https://www.naukri.com/code360/problems/longest-common-prefix_2090383?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0
