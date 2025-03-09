@@ -1,0 +1,3 @@
+Get Minimum Squares	--->	https://www.geeksforgeeks.org/problems/get-minimum-squares0538/1
+
+279. Perfect Squares	--->	https://leetcode.com/problems/perfect-squares/description/
