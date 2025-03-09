@@ -1,0 +1,3 @@
+Count Ways To Reach The N-th Stairs	--->	https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650?leftPanelTab=0&leftPanelTabValue=PROBLEM
+
+746. Min Cost Climbing Stairs	--->	https://leetcode.com/problems/min-cost-climbing-stairs/description/

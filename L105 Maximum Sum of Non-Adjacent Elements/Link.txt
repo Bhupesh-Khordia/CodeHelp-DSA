@@ -1,0 +1,6 @@
+Maximum sum of non-adjacent elements	--->	https://www.naukri.com/code360/problems/maximum-sum-of-non-adjacent-elements_843261?leftPanelTab=0&leftPanelTabValue=PROBLEM
+
+198. House Robber	--->	https://leetcode.com/problems/house-robber/description/
+
+
+3165. Maximum Sum of Subsequence With Non-adjacent Elements	--->	https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/description/

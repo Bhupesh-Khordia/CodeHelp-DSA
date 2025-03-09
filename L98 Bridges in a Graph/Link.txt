@@ -1,0 +1,3 @@
+Bridges In A Graph	--->	https://www.naukri.com/code360/problems/bridges-in-graph_893026?leftPanelTab=0
+
+1192. Critical Connections in a Network	--->	https://leetcode.com/problems/critical-connections-in-a-network/description/
