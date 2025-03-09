@@ -1,0 +1,11 @@
+Questions:
+1. 0/1 Knapsack
+2. Equal Subset Sum Partition
+3. Subset Sum
+4. Minimum subset sum difference
+5. Count of subset sum
+6. Target Sum
+
+
+
+0 1 Knapsack - https://www.naukri.com/code360/problems/0-1-knapsack_920542?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0&leftPanelTabValue=SUBMISSION
