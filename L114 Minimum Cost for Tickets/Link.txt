@@ -1,0 +1,4 @@
+Ninja's Trip	--->	https://www.naukri.com/code360/problems/minimum-coins_2180776?leftPanelTab=0&leftPanelTabValue=PROBLEM
+
+
+983. Minimum Cost For Tickets	--->	https://leetcode.com/problems/minimum-cost-for-tickets/description/
