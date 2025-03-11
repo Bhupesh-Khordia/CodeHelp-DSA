@@ -1,0 +1,3 @@
+1039. Minimum Score Triangulation of Polygon	--->	https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/
+
+Minimum Score	--->	https://www.naukri.com/code360/problems/minimum-score_1266046?leftPanelTabValue=PROBLEM
