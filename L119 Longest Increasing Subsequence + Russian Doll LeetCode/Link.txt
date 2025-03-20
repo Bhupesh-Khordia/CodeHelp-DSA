@@ -1,0 +1,12 @@
+Longest Increasing Subsequence - 
+
+Longest Increasing Subsequence	--->	https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
+Longest Increasing Subsequence	--->	https://www.naukri.com/code360/problems/longest-increasing-subsequence_630459?leftPanelTabValue=PROBLEM
+300. Longest Increasing Subsequence	--->	https://leetcode.com/problems/longest-increasing-subsequence/description/
+
+
+
+Russian Doll -
+
+Russian Doll Envelopes	--->	https://www.naukri.com/code360/problems/russian-doll-envelopes_1094905?leftPanelTabValue=PROBLEM
+354. Russian Doll Envelopes	--->	https://leetcode.com/problems/russian-doll-envelopes/description/
