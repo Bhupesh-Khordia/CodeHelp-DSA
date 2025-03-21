@@ -1,0 +1,2 @@
+1388. Pizza With 3n Slices	--->	https://leetcode.com/problems/pizza-with-3n-slices/description/
+Pizza Sharing	--->	https://www.naukri.com/code360/problems/pizza-sharing_3161885?leftPanelTabValue=PROBLEM
