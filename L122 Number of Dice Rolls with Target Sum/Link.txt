@@ -1,0 +1,3 @@
+1155. Number of Dice Rolls With Target Sum	--->	https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/
+Dice throw	--->	https://www.geeksforgeeks.org/problems/dice-throw5349/1
+Dice Throws	--->	https://www.naukri.com/code360/problems/dice-throws_799924?leftPanelTabValue=PROBLEM
