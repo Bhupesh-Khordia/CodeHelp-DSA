@@ -1,0 +1,2 @@
+Longest Arithmetic Subsequence	--->	https://www.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1
+1027. Longest Arithmetic Subsequence	--->	https://leetcode.com/problems/longest-arithmetic-subsequence/description/
