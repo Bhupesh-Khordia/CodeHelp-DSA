@@ -1,0 +1,3 @@
+122. Best Time to Buy and Sell Stock II	--->	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+Stock Buy and Sell – Multiple Transaction Allowed	--->	https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+Best Time to Buy and Sell Stock II	--->	https://www.naukri.com/code360/problems/selling-stock_630282?leftPanelTabValue=PROBLEM
