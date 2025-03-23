@@ -1,0 +1,2 @@
+96. Unique Binary Search Trees	--->	https://leetcode.com/problems/unique-binary-search-trees/description/
+Unique BST's	--->	https://www.geeksforgeeks.org/problems/unique-bsts-1587115621/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
