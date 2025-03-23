@@ -1,0 +1,3 @@
+121. Best Time to Buy and Sell Stock	--->	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+Stock Buy and Sell – Max one Transaction Allowed	--->	https://www.geeksforgeeks.org/problems/buy-stock-2/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+Best Time to Buy and Sell Stock	--->	https://www.naukri.com/code360/problems/stocks-are-profitable_893405?leftPanelTabValue=PROBLEM
