@@ -1,0 +1,5 @@
+714. Best Time to Buy and Sell Stock with Transaction Fee	--->	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/
+
+Buy Stock with Transaction Fee	--->	https://www.geeksforgeeks.org/problems/buy-stock-with-transaction-fee/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+Best Time to Buy and Sell Stock with Transaction Fee	--->	https://www.naukri.com/code360/problems/best-time-to-buy-and-sell-stock-with-transaction-fee_3118974?leftPanelTabValue=PROBLEM
