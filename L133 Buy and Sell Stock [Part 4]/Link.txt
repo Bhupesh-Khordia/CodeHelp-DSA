@@ -1,0 +1,5 @@
+188. Best Time to Buy and Sell Stock IV	--->	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
+
+Best Time to Buy and Sell Stock IV	--->	https://www.naukri.com/code360/problems/best-time-to-buy-and-sell-stock_1080698?leftPanelTabValue=PROBLEM
+
+Stock Buy and Sell – Max K Transactions Allowed	--->	https://www.geeksforgeeks.org/problems/maximum-profit4657/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
