@@ -1,0 +1,5 @@
+1143. Longest Common Subsequence	--->	https://leetcode.com/problems/longest-common-subsequence/description/
+
+Longest Common Subsequence	--->	https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+Longest Common Subsequence	--->	https://www.naukri.com/code360/problems/longest-common-subsequence_1063255
