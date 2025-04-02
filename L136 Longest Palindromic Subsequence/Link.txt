@@ -1,0 +1,5 @@
+516. Longest Palindromic Subsequence	--->	https://leetcode.com/problems/longest-palindromic-subsequence/description/
+
+Longest Palindromic Subsequence	--->	https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1
+
+Longest Palindromic Subsequence	--->	https://www.naukri.com/code360/problems/longest-palindromic-subsequence_842787
