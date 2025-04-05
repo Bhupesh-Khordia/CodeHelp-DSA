@@ -1,0 +1,58 @@
+Ques 1 >
+
+
+N meetings in one room	--->	https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
+
+Activity Selection	--->	https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1
+
+452. Minimum Number of Arrows to Burst Balloons	--->	https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/
+
+Maximum meetings	--->	https://www.naukri.com/code360/problems/maximum-meetings_1062658
+
+Maximum Meetings in One Room	--->	https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1
+
+
+Ques 2 >
+
+
+Shop in Candy Store	--->	https://www.geeksforgeeks.org/problems/shop-in-candy-store1145/1
+
+Check if it is possible to survive on Island	--->	https://www.geeksforgeeks.org/problems/check-if-it-is-possible-to-survive-on-island4922/1
+
+
+Ques 3 >
+
+
+Reverse Words	--->	https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
+
+
+Ques 4 >
+
+
+Chocolate Distribution Problem	--->	https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
+
+
+Ques 5 >
+
+
+Minimum Cost of ropes	--->	https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
+
+
+Ques 6 >
+
+
+Huffman Encoding	--->	https://www.geeksforgeeks.org/problems/huffman-encoding3345/1
+
+
+
+Ques 7 >
+
+
+Fractional Knapsack	--->	https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1
+
+
+
+Ques 8 >
+
+
+Job Sequencing Problem	--->	https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1
