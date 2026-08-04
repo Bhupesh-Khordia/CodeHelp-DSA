@@ -1,0 +1,3 @@
+Largest square formed in a matrix	--->	https://www.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1
+
+221. Maximal Square	--->	https://leetcode.com/problems/maximal-square/description/
